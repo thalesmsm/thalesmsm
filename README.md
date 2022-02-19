@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-### Meu nome é Thales e no momento estou dando início ao curso de formação em Desenvolvimento Wed da Trybe
+### Meu nome é Thales e no momento estou dando início ao curso de formação em Desenvolvimento Web da Trybe
 
 #### Me acompanhe aqui no <em>Github</em> e também nas redes abaixo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesmsm/)
