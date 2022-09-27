@@ -21,7 +21,9 @@
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </div>
+
 
 ##
 ### Tecnologias a serem vistas 
