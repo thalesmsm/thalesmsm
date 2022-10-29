@@ -13,20 +13,14 @@
   <img height= 30px width= "35" align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height= 30px width= "35" align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height= 30px width= "35" align="center" alt="redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</div> 
-
-##
-### Tecnologias sendo vistas 
-<div style="display: inline_block"><br/>
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-</div>
-
+</div> 
 
 ##
-### Tecnologias a serem vistas 
+### Tecnologias sendo vistas 
 <div style="display: inline_block"><br/>
   <img height= 30px width= "35" align="center" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height= 30px width= "35" align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
