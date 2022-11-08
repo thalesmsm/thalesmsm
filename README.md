@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-### Meu nome é Thales, Desenvolvedor Front-End e futuro Desenvolvedor FullStack pela Trybe ! 
+### Meu nome é Thales, Desenvolvedor FullStack pela Trybe ! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesmsm/)
 ##
