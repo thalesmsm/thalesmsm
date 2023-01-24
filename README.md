@@ -18,12 +18,11 @@
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height= 30px width= "35" align="center" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
   <img height= 30px width= "35" align="center" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height= 30px width= "35" align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div> 
 
 ##
-### Tecnologias sendo/ a serem vistas 
+### Tecnologias sendovistas 
 <div style="display: inline_block"><br/>
-  
-  <img height= 30px width= "35" align="center" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height= 30px width= "35" align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>  
