@@ -3,7 +3,7 @@
 ### Meu nome é Thales, Desenvolvedor FullStack pela Trybe ! 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesmsm/)
-[![Linkedin](https://img.shields.io/badge/Email-ff0000?style=for-the-badge&labelColor=ff0000&logo=Gmail&logoColor=white)](https://criarmeulink.com.br/u/1675877783)
+[![Linkedin](https://img.shields.io/badge/Email-ff0000?style=for-the-badge&labelColor=ff0000&logo=Gmail&logoColor=white)](mailto:thalesmsm12@gmail.com)
 
 ##
 
